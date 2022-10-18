@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "postgres.h": "c",
+        "pqformat.h": "c",
+        "builtins.h": "c",
+        "attnum.h": "c",
+        "int8.h": "c",
+        "float.h": "c"
+    }
+}
